@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [full-stack story generator](https://github.com/Victor-Quan/stories)
 
-- 🌱 I’m currently learning **mvc architecture**
+- 🌱 I’m currently learning **MVC Architecture**
 
 - 👨‍💻 All of my projects are available at [https://vqcodes.netlify.app/](https://vqcodes.netlify.app/)
 
