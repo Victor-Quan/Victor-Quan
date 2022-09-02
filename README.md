@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [full-stack story generator](https://github.com/Victor-Quan/stories)
 
-- 🌱 I’m currently learning **mvc architecture**
+- 🌱 I’m currently learning **MVC Architecture**
 
-- 👨‍💻 All of my projects are available at [https://vqcodes.netlify.app/](https://vqcodes.netlify.app/)
+- 👨‍💻 All of my projects are available at [my website](https://vqcodes.netlify.app/)
 
 - 📫 How to reach me **victorquan2010@gmail.com**
 
-- ⚡ Fun fact **Did you know that Roller Coaster Tycoon was made almost entirely in Assembly by one person? What a wizard!**
+- ⚡ Fun fact: **Did you know that Roller Coaster Tycoon was made almost entirely in Assembly by one person? What a wizard!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
