@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Quan</h1>
 <h3 align="center">A creative full-stack developer from Brooklyn, New York</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vq" alt="vq" /></a> </p>
-
 - 🔭 I’m currently working on [full-stack story generator](https://github.com/Victor-Quan/stories)
 
-- 🌱 I’m currently learning **MVC Architecture**
+- 🌱 I’m currently learning **mvc architecture**
 
 - 👨‍💻 All of my projects are available at [https://vqcodes.netlify.app/](https://vqcodes.netlify.app/)
 
